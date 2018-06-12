@@ -1,0 +1,6 @@
+<!--pages/about/about.wxml-->
+<text class="about-item">关于建超同学</text>
+
+<view class="container">
+<button type='primary' bindtap="setLoading" loading="{{loading}}">按钮</button>
+</view>

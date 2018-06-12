@@ -1,0 +1,8 @@
+/* pages/about/about.wxss */
+.about-item {
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+  color: red;
+  display: flex;
+  justify-content: center;
+}
